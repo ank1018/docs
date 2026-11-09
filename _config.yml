@@ -1,0 +1,6 @@
+title: Docs
+description: Public documents for apps by Ankur Singh
+theme: jekyll-theme-primer
+markdown: kramdown
+kramdown:
+  input: GFM
